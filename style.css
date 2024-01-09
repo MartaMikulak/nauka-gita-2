@@ -1,0 +1,10 @@
+body {
+    background-color: darkgrey;
+    color: black;
+    padding: 24px 60px;
+    text-align: center;
+}
+
+h3 {
+    font-style: italic;
+}
